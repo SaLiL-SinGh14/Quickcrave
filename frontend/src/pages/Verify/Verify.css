@@ -1,0 +1,50 @@
+
+.verify-container {
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: #f9fafb;
+    padding: 20px;
+  }
+  
+  
+  .verify-card {
+    background: #fff;
+    border-radius: 16px;
+    padding: 30px 40px;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+    max-width: 500px;
+    width: 100%;
+    text-align: center;
+  }
+  
+  
+  .verify-text {
+    font-size: 20px;
+    margin-bottom: 15px;
+    font-weight: 600;
+  }
+
+  .verify-subtext {
+    font-size: 14px;
+    color: #6b7280;
+  }
+  
+  
+  .success {
+    color: #16a34a; 
+  }
+  
+  .error {
+    color: #dc2626; 
+  }
+  
+  .warning {
+    color: #d97706; 
+  }
+  
+  .info {
+    color: #2563eb; 
+  }
+  
