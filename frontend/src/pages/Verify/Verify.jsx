@@ -24,7 +24,7 @@ const Verify = () => {
     const verify = async () => {
       try {
         const resp = await axios.get(
-          `http://localhost:4000/api/order/verify?order_id=${order_id}`,
+          `https://quickcrave-backend-9aop.onrender.com/api/order/verify?order_id=${order_id}`,
           { headers: { token: localStorage.getItem('token') } }
         );
 
