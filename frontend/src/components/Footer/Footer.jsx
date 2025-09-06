@@ -27,7 +27,7 @@ const Footer = () => {
                     <h2>GET IN TOUCH</h2>
                     <ul>
                         <li>+1-212-456-7890</li>
-                        <li>contact@tomato.com</li>
+                        <li>contact@quickcrave.com</li>
                     </ul>
 
                 </div>
@@ -36,7 +36,7 @@ const Footer = () => {
             </div>
             <hr />
             <p className="footer-copyright">
-                Copyright 2025 © Tomato.com - All Right Reserved.
+                Copyright 2025 © QuickCrave.com - All Right Reserved.
             </p>
 
         </div>
